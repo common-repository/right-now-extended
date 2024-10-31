@@ -1,0 +1,99 @@
+#right-now-extended-widget .left
+{
+    float: left;
+}
+
+#right-now-extended-widget .right
+{
+    float: right;
+}
+
+#right-now-extended-widget .table
+{
+    border-top: #ECECEC 1px solid;
+    width: 45%;
+    margin: 0 -9px;
+    padding: 0 10px;
+    position: relative;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#right-now-extended-widget .sub
+{
+    font-style: italic;
+    font-family: Georgia,"Times New Roman","Bitstream Charter",Times,serif;
+    padding: 5px 10px 15px;
+    color: #777;
+    font-size: 13px;
+    position: absolute;
+    top: -17px;
+    left: 15px;
+    margin: -12px;
+}
+
+#right-now-extended-widget td
+{
+    padding: 3px 0;
+    white-space: nowrap;
+}
+
+#right-now-extended-widget tr .b
+{
+    padding-right: 6px;
+    text-align: right;
+    font-family: Georgia,"Times New Roman","Bitstream Charter",Times,serif;
+    width: 1%;
+    font-size: 16px;
+    color: #21759B;
+}
+
+#right-now-extended-widget .t
+{
+    font-size: 12px;
+    padding-right: 12px;
+    color: #21759B;
+}
+
+#right-now-extended-widget .green
+{
+    color: green;
+}
+
+#right-now-extended-widget .orange
+{
+    color: #E66F00;
+}
+
+#right-now-extended-widget .red
+{
+    color: red;
+}
+
+#right-now-extended-widget .gray
+{
+    color: gray;
+}
+
+#right-now-extended-widget .versions
+{
+    clear: both;
+    border: 1px solid #C7CDDA;
+    background: #FAFCFD url('../images/info.png') no-repeat 10px 10px;
+    padding: 0 .6em;
+    -moz-border-radius: 3px;
+    -khtml-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+}
+
+#right-now-extended-widget .versions p
+{
+    margin: 10px 26px 10px 26px;
+}
+
+#right-now-extended-widget .versions .b
+{
+    font-weight: bold;
+    color: #21759B;
+}
